@@ -6,4 +6,5 @@ echo $array[2];
 print "<br><br><br>";
 $arrayasociativo = array("val1"=>"VAL1","val2"=>"VAL2");
 echo $arrayasociativo["val2"];
+echo "hola mundo";
 ?>
